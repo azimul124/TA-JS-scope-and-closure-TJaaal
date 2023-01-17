@@ -1,4 +1,4 @@
-To create the execution context diagram consider the following:
+`To create the execution context diagram consider the following:
 
 - Global and Function Execution Context
 - Different Phases Of Execution Context
@@ -55,6 +55,7 @@ function counter(){
 }
 ```
 
+.
 Create the execution context diagram of the following code line by line.
 
 ```js

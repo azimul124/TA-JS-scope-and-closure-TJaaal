@@ -26,8 +26,8 @@ multiplyByTwo(2); //-> 4
 // Your code goes here
 
 // Test Your Code
-let alphabet = '';
-let letters = ['a', 'b', 'c', 'd'];
+let alphabet = "";
+let letters = ["a", "b", "c", "d"];
 forEach(letters, function (char) {
   alphabet += char;
 });

@@ -75,3 +75,18 @@ return text.split(" ");
 ```
 
 ```
+
+`
+// Output: "LEARNING TO FLY"
+console.log(
+operation("Higher Order Fucntion", function (text) {
+return text.split(" ");
+})
+);
+// Output: ["Higher","Order","Function"]
+
+```
+
+```
+
+`
